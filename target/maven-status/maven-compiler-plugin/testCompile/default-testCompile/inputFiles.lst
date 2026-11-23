@@ -1,0 +1,13 @@
+/Users/gauravsingh/Downloads/nexus-bank-automation/src/test/java/com/nexusbank/base/BasePage.java
+/Users/gauravsingh/Downloads/nexus-bank-automation/src/test/java/com/nexusbank/hooks/Hooks.java
+/Users/gauravsingh/Downloads/nexus-bank-automation/src/test/java/com/nexusbank/pages/AccountsPage.java
+/Users/gauravsingh/Downloads/nexus-bank-automation/src/test/java/com/nexusbank/pages/BeneficiaryPage.java
+/Users/gauravsingh/Downloads/nexus-bank-automation/src/test/java/com/nexusbank/pages/DashboardPage.java
+/Users/gauravsingh/Downloads/nexus-bank-automation/src/test/java/com/nexusbank/pages/FundTransferPage.java
+/Users/gauravsingh/Downloads/nexus-bank-automation/src/test/java/com/nexusbank/pages/LoginPage.java
+/Users/gauravsingh/Downloads/nexus-bank-automation/src/test/java/com/nexusbank/pages/TransactionPage.java
+/Users/gauravsingh/Downloads/nexus-bank-automation/src/test/java/com/nexusbank/steps/BankingSteps.java
+/Users/gauravsingh/Downloads/nexus-bank-automation/src/test/java/com/nexusbank/steps/LoginSteps.java
+/Users/gauravsingh/Downloads/nexus-bank-automation/src/test/java/com/nexusbank/utility/ConfigReader.java
+/Users/gauravsingh/Downloads/nexus-bank-automation/src/test/java/com/nexusbank/utility/DriverFactory.java
+/Users/gauravsingh/Downloads/nexus-bank-automation/src/test/java/runners/TestRunner.java

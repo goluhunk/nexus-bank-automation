@@ -1,0 +1,13 @@
+com/nexusbank/utility/ConfigReader.class
+com/nexusbank/utility/DriverFactory.class
+runners/TestRunner.class
+com/nexusbank/pages/BeneficiaryPage.class
+com/nexusbank/base/BasePage.class
+com/nexusbank/pages/FundTransferPage.class
+com/nexusbank/pages/LoginPage.class
+com/nexusbank/pages/DashboardPage.class
+com/nexusbank/steps/LoginSteps.class
+com/nexusbank/steps/BankingSteps.class
+com/nexusbank/hooks/Hooks.class
+com/nexusbank/pages/AccountsPage.class
+com/nexusbank/pages/TransactionPage.class
