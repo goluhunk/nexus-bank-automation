@@ -82,6 +82,29 @@ pipeline {
                 }
             }
         }
+         stage('Deploy Application to QA') {
+                    steps {
+                        echo 'Demo: Deploying application to QA'
+                    }
+                }
+
+                stage('Execute QA Smoke Tests') {
+                    steps {
+                        echo 'Demo: Executing QA smoke tests'
+                    }
+                }
+
+                stage('Manual Production Approval') {
+                    steps {
+                        echo 'Demo: Production approval stage'
+                    }
+                }
+
+                stage('Deploy Application to Production') {
+                    steps {
+                        echo 'Demo: Deploying application to Production'
+                    }
+          }
     }
 
     post {
